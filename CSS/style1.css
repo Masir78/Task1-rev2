@@ -1,0 +1,38 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-weight: 100;
+}
+
+article {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img {
+    width: 220px;
+    height: 110px;
+    /* padding-top: 15px; */
+}
+
+.text {
+    width: 75%;
+}
+
+.car, .desert {
+    border-bottom: 1px dotted #e1e1e1;
+}
+
+footer {
+    margin-top: 40px;
+}
+
+footer a {
+    color: black;  
+    font-weight: 700;  
+}
